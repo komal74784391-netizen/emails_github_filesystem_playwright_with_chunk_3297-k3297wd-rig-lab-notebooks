@@ -1,0 +1,10 @@
+{
+  "project": "OrbitCrate Labs",
+  "catalog_ref": null,
+  "generated_at": "2026-11-13T11:30:00Z",
+  "current": {"version": "1.7.4", "channel": "stable", "cut_from": "main"},
+  "releases": [
+    {"version": "1.7.4", "channel": "stable", "cut_from": "main", "date": "2026-06-20"},
+    {"version": "1.8.0-lab.3", "channel": "preview", "cut_from": "lab/calibration", "date": "2026-10-12"}
+  ]
+}

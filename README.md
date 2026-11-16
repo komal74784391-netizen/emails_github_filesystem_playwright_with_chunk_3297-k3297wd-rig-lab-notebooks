@@ -1,2 +1,10 @@
-# emails_github_filesystem_playwright_with_chunk_3297-k3297wd-rig-lab-notebooks
-OrbitCrate Labs - internal calibration and fusion notebooks
+# OrbitCrate Labs
+
+Experimental notebooks and sensor-calibration harness for the OrbitCrate rigs.
+This is an internal research project; it is not the production bridge and does
+not back any catalog entry.
+
+## Availability
+
+The calibration harness is cut from `main` on a stable channel for internal
+reuse; see `distribution.json`.
